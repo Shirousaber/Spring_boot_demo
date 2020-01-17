@@ -1,10 +1,10 @@
-#Spring boot 样例程序
+# Spring boot 样例程序
 
-##参考资料
+## 参考资料
 [git](https://git-scm.com/docs)  
 [spring](https://spring.io/projects/spring-boot)
 
-##工具
+## 工具
 Git  
 IDEA  
 JDK13  
