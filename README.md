@@ -22,7 +22,8 @@ alt + E/B 光标跳转到段落手尾
 Ctrl + Shift + n 快速打开到某个窗口  
 Alt + D 最大化代码窗口  
 Setter and Getter Generate  
-Ctrl + Alt + v 快速new 匿名对象为非匿名
+Ctrl + Alt + v 快速new 匿名对象为非匿名  
+Ctrl + E 切换到最近编辑的窗口
 
 ## TODO
 彻底解决OKHttp的依赖问题
