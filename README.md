@@ -6,7 +6,10 @@
 [githubOA](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)  
 [Okhttp](https://square.github.io/okhttp/)  
 [maven repository](https://mvnrepository.com)  
-[fastjson](https://mvnrepository.com/artifact/com.alibaba/fastjson)
+[fastjson](https://mvnrepository.com/artifact/com.alibaba/fastjson)  
+HttpServletRequest  
+[Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#what-is-thymeleaf)  
+[Thymeleaf+Spring doc](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
 ## 工具
 Git  
 IDEA  
