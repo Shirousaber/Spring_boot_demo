@@ -44,9 +44,6 @@ public class AuthorizeController {
         String accessToken = githubprovider.getAccessToekn(accessTokenDto);
         GithubUser githubUser = githubprovider.getUser(accessToken);
 
-        System.out.println("name:"+githubUser.getName());
-        System.out.println("Bio:"+githubUser.getBio());
-        System.out.println("id:"+githubUser.getId());
         if (githubUser != null)
         {
             User user  =  new User();
@@ -57,9 +54,9 @@ public class AuthorizeController {
             user.setGmt_modified(user.getGmt_create());
             userMapper.insert(user);
             request.getSession().setAttribute("githubUser",githubUser);//记录在服务端
-            return "redirect:";
+            return "redirect: ";
         }else{
-            return "redirect:";
+            return "redirect: ";
         }
 
     }
